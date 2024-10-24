@@ -5,7 +5,7 @@ const { PythonShell } = require('python-shell');
 const app = express();
 
 // Initialize Python bot
-const pyshell = new PythonShell('whatsapp_bot.py', {
+const pyshell = new PythonShell('api/whatsapp_bot.py', {
     mode: 'text',
     pythonOptions: ['-u']
 });

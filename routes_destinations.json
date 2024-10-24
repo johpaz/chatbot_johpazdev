@@ -1,0 +1,4470 @@
+{
+    "MONTERIA-CAUCASIA BUS": [
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 6000
+        },
+        {
+            "destination": "PL PATIO BONITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "PL KILOMETRO 20",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "PL EL CHARCO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL LOS CERROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL CAROLINA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL EL TOPACIO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 14000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 26000
+        },
+        {
+            "destination": "LA APARTADA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 30000
+        },
+        {
+            "destination": "RUSIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "CAUCASIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 38000
+        },
+        {
+            "destination": "PLAZA BONITA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "NUEVA ESTACION",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        }
+    ],
+    "MONTERIA-MONTELIBANO BUS": [
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 6000
+        },
+        {
+            "destination": "PL PATIO BONITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "PL KILOMETRO 20",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "PL EL CHARCO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL LOS CERROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL CAROLINA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL EL TOPACIO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 14000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 26000
+        },
+        {
+            "destination": "LA APARTADA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 30000
+        },
+        {
+            "destination": "RUSIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "CAUCASIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 38000
+        },
+        {
+            "destination": "MONTELIBANO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 38000
+        },
+        {
+            "destination": "UR\u00c9",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 53000
+        },
+        {
+            "destination": "PLAZA BONITA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "BIJAO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 39000
+        },
+        {
+            "destination": "TIERRA DENTRO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 50000
+        },
+        {
+            "destination": "NUEVA ESTACION",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        }
+    ],
+    "MONTERIA-PUERTO LIBERTADOR BUS": [
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 6000
+        },
+        {
+            "destination": "PL PATIO BONITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "PL KILOMETRO 20",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "PL EL CHARCO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL LOS CERROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL CAROLINA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL EL TOPACIO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 14000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 26000
+        },
+        {
+            "destination": "LA BALASTERA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 43000
+        },
+        {
+            "destination": "LA APARTADA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 30000
+        },
+        {
+            "destination": "RUSIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "CAUCASIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 38000
+        },
+        {
+            "destination": "MONTELIBANO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 38000
+        },
+        {
+            "destination": "PUERTO LIBERTADOR",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 52000
+        },
+        {
+            "destination": "VILLA NUEVA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 53000
+        },
+        {
+            "destination": "LA RICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 60000
+        },
+        {
+            "destination": "LA PIEDRA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 65000
+        },
+        {
+            "destination": "JUAN JOSE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 73000
+        },
+        {
+            "destination": "PLAZA BONITA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "SAN JUAN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 65000
+        },
+        {
+            "destination": "NUEVA ESTACION",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        }
+    ],
+    "MONTERIA-SINCELEJO BUS": [
+        {
+            "destination": "CIENAGA DE ORO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 14000
+        },
+        {
+            "destination": "LA YE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "SAHAGUN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 21000
+        },
+        {
+            "destination": "CHINU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "SAMPUES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "SINCELEJO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 34000
+        }
+    ],
+    "MONTERIA-CARTAGENA VIA SINCELEJO BUSV": [
+        {
+            "destination": "LOS BONGOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 42000
+        },
+        {
+            "destination": "CIENAGA DE ORO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 14000
+        },
+        {
+            "destination": "LA YE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "SAHAGUN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 21000
+        },
+        {
+            "destination": "CHINU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "SAMPUES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "SINCELEJO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 34000
+        },
+        {
+            "destination": "COROZAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 35000
+        },
+        {
+            "destination": "CARTAGENA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 83000
+        }
+    ],
+    "MONTERIA-TOLU BUS": [
+        {
+            "destination": "LA PALMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "NARI\u00d1O",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "PALO DE AGUA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "COTOCA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "EL GUAMAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "SARANDELO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "MATA DE CA\u00d1A",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "TIERRALTICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "EL CARITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "LOS GOMEZ",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "COTORRA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "SABANA NUEVA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "GUAYABAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "CARRILLO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "SAN PELAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 4000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 41000
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 32000
+        },
+        {
+            "destination": "SAN ANTERO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "MO\u00d1ITOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "PURISIMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 23000
+        },
+        {
+            "destination": "SAN BERNARDO DEL VIENTO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 30000
+        },
+        {
+            "destination": "MOMIL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "CHIMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "ARACHE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "BOCA CIENAGA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "APARTADA DEL CARITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "APARTADA TIERRALTICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "TUCHIN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "LA DOCTRINA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 24000
+        },
+        {
+            "destination": "EL PORVENIR",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "NUEVO AGRADO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 23000
+        }
+    ],
+    "MONTERIA-LORICA BUS": [
+        {
+            "destination": "LA PALMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "NARI\u00d1O",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "PALO DE AGUA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "COTOCA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "EL GUAMAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "SARANDELO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "MATA DE CA\u00d1A",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "LOS GOMEZ",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "COTORRA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "SABANA NUEVA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "GUAYABAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "CARRILLO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "SAN PELAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 4000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 41000
+        },
+        {
+            "destination": "MARIA LA BAJA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 57000
+        },
+        {
+            "destination": "SAN ONOFRE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 47000
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 32000
+        },
+        {
+            "destination": "SAN ANTERO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "EL VISO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 52000
+        },
+        {
+            "destination": "MO\u00d1ITOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "SAN BERNARDO DEL VIENTO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 30000
+        },
+        {
+            "destination": "ARACHE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "CERETE VANS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 3600
+        },
+        {
+            "destination": "CERETE TAXIS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 3600
+        },
+        {
+            "destination": "BOCA CIENAGA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "APARTADA DEL CARITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "APARTADA TIERRALTICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "TUCHIN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "LA DOCTRINA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 24000
+        },
+        {
+            "destination": "EL PORVENIR",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        }
+    ],
+    "MONTERIA-ARBOLETES BUS": [
+        {
+            "destination": "PUERTO REY",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "EL MINUTO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 18000
+        },
+        {
+            "destination": "LOS CORDOBAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 18000
+        },
+        {
+            "destination": "BARRANQUILLITA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 18000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 18000
+        },
+        {
+            "destination": "CAMPANO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "JALISCO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "APDA PTO ESCONDIDO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "EL EBANO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "APRTADA CANALETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 14000
+        },
+        {
+            "destination": "AGUAS VIVAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 11000
+        },
+        {
+            "destination": "LA BALASTERA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "RANCHO ALEGRE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "LAS CRUCES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "LOS CEDROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 8000
+        },
+        {
+            "destination": "SANTA LUCIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "MO\u00d1ITOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "GALILEA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "QUEBRADA SECA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "LA CEIBA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "CANALETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "LA FLORIDA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "LAS FLORES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 24000
+        },
+        {
+            "destination": "CRISTO REY",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 22000
+        },
+        {
+            "destination": "PUERTO ESCONDIDO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        }
+    ],
+    "MONTERIA-SAN JUAN TAXI": [
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 18800
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 16000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 18800
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "AUTOMOVIL",
+            "fare": 16000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "VANS",
+            "fare": 18800
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "VANS",
+            "fare": 16000
+        }
+    ],
+    "MONTERIA-TURBO BUS": [
+        {
+            "destination": "LOS CORDOBAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "CAMPANO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "NECOCLI",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 38000
+        },
+        {
+            "destination": "MELLITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 37000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 21000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 18000
+        },
+        {
+            "destination": "EL TOTUMO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "TURBO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 49000
+        },
+        {
+            "destination": "PIEDRECITA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "UVEROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 26000
+        }
+    ],
+    "MONTERIA-APARTADO BUS": [
+        {
+            "destination": "LOS CORDOBAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "CAMPANO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "NECOCLI",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 43000
+        },
+        {
+            "destination": "MELLITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 42000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 39000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 37000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 37000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 24000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "EL TOTUMO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "EL TRES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "CURRULAO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "TURBO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 55000
+        },
+        {
+            "destination": "APARTADO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 63000
+        },
+        {
+            "destination": "PIEDRECITA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "UVEROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 30000
+        }
+    ],
+    "MONTERIA-VALENCIA BUS": [
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 5000
+        },
+        {
+            "destination": "PL KILOMETRO 20",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 8000
+        },
+        {
+            "destination": "LOS CORRALES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 8000
+        },
+        {
+            "destination": "SAN MIGUEL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 8000
+        },
+        {
+            "destination": "CASA BLANCA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 8000
+        },
+        {
+            "destination": "MOCHILA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 8000
+        },
+        {
+            "destination": "SAN ANTERITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 11000
+        },
+        {
+            "destination": "SAN ISIDRO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 11000
+        },
+        {
+            "destination": "EL SENA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 11000
+        },
+        {
+            "destination": "SANTA FE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 11000
+        },
+        {
+            "destination": "LA ESPERANZA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 11000
+        },
+        {
+            "destination": "COREA - PUNTO FIJO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "VARIANTE 38",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "LA ASAMBLEA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "TRES PIEDRAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "BETANCI",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "LAS PIEDRAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "EL JARDIN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "LA CAJA DEL DIABLO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "APARTADA VALENCIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "LOS BONGOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "VALENCIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "TIERRALTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "VOLADOR",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "MARACAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PRADERA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 11000
+        },
+        {
+            "destination": "CERROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "3 BINDE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "MONACO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "EL CARMELO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "EL VICHO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        }
+    ],
+    "MONTERIA-TIERRA ALTA BUS": [
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 6000
+        },
+        {
+            "destination": "PL KILOMETRO 20",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "LOS CORRALES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "SAN MIGUEL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "CASA BLANCA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "MOCHILA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "SAN ANTERITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "SAN ISIDRO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "EL SENA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "SANTA FE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "LA ESPERANZA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "COREA - PUNTO FIJO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "VARIANTE 38",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "LA ASAMBLEA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "TRES PIEDRAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "BETANCI",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "LAS PIEDRAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "EL JARDIN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 18000
+        },
+        {
+            "destination": "LA CAJA DEL DIABLO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 18000
+        },
+        {
+            "destination": "APARTADA VALENCIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 18000
+        },
+        {
+            "destination": "LOS BONGOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 18000
+        },
+        {
+            "destination": "VALENCIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 28000
+        },
+        {
+            "destination": "TIERRALTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 19000
+        },
+        {
+            "destination": "RUSIA GRUPO 1",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 35000
+        },
+        {
+            "destination": "RUSIA GRUPO 3",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 36000
+        },
+        {
+            "destination": "PUEBLITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 36000
+        },
+        {
+            "destination": "SAN PEDRO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 52000
+        },
+        {
+            "destination": "MATA DE MAIZ",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 36000
+        },
+        {
+            "destination": "VOLADOR",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "MARACAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "PRADERA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "BONGOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 18000
+        },
+        {
+            "destination": "CERROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "3 BINDE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "MONACO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "3 PIEDRAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "PATIO BONITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 8000
+        },
+        {
+            "destination": "EL CARMELO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "EL VICHO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "COLOMBOY",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "LA GUNETA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "LAS CUMBRES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "SAN ANDRES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "VIAJANO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "CRUCERO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 32000
+        },
+        {
+            "destination": "LAS BOCAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "CHIMBORAZO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 32000
+        },
+        {
+            "destination": "TABLON",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "BUENAVISTA SM",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 37000
+        },
+        {
+            "destination": "BONGA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 37000
+        },
+        {
+            "destination": "SANTA INES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 22000
+        },
+        {
+            "destination": "SAN MARCOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 37000
+        }
+    ],
+    "MONTERIA-MO\u00d1ITOS VIA LORICA BUS": [
+        {
+            "destination": "LA PALMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "NARI\u00d1O",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "PALO DE AGUA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "COTOCA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "EL GUAMAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "SARANDELO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "MATA DE CA\u00d1A",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "LOS GOMEZ",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "COTORRA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "SABANA NUEVA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "GUAYABAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "CARRILLO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "SAN PELAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 4000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 41000
+        },
+        {
+            "destination": "MARIA LA BAJA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 64000
+        },
+        {
+            "destination": "SAN ONOFRE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 53000
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 32000
+        },
+        {
+            "destination": "SAN ANTERO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "EL VISO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 58000
+        },
+        {
+            "destination": "MO\u00d1ITOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "PASO NUEVO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 30000
+        },
+        {
+            "destination": "PURISIMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 23000
+        },
+        {
+            "destination": "SAN BERNARDO DEL VIENTO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 30000
+        },
+        {
+            "destination": "MOMIL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "CHIMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "ARACHE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "CERETE VANS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 4000
+        },
+        {
+            "destination": "CERETE TAXIS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 4000
+        },
+        {
+            "destination": "BOCA CIENAGA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "APARTADA DEL CARITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "APARTADA TIERRALTICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "TUCHIN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "LA DOCTRINA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 24000
+        },
+        {
+            "destination": "EL PORVENIR",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "LA RADA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 29000
+        },
+        {
+            "destination": "LAS GARITAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 23000
+        },
+        {
+            "destination": "TREMENTINO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 23000
+        },
+        {
+            "destination": "NUEVO AGRADO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 23000
+        }
+    ],
+    "CAUCACIA-MONTERIA BUS": [
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 40000
+        },
+        {
+            "destination": "PL CAROLINA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 10000
+        },
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "CARTAGENA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 100000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 38000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 35000
+        },
+        {
+            "destination": "LA APARTADA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 50000
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 75000
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 65000
+        },
+        {
+            "destination": "NECOCLI",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 80000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 50000
+        },
+        {
+            "destination": "RUSIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "TURBO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 90000
+        },
+        {
+            "destination": "APARTADO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 100000
+        },
+        {
+            "destination": "PLAZA BONITA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "SAN JUAN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 65000
+        }
+    ],
+    "MONTELIBANO-MONTERIA BUS": [
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 28000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 38000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        }
+    ],
+    "CARTAGENA VIA SINCELEJO-TIERRA ALTA BUS": [
+        {
+            "destination": "CIENAGA DE ORO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 67000
+        },
+        {
+            "destination": "LA YE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 62000
+        },
+        {
+            "destination": "SAHAGUN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 62000
+        },
+        {
+            "destination": "SAMPUES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 56000
+        },
+        {
+            "destination": "SINCELEJO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 56000
+        },
+        {
+            "destination": "COROZAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 50000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 83000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 67000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "OVEROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "CARRETO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 28000
+        },
+        {
+            "destination": "SAN JACINTO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 34000
+        },
+        {
+            "destination": "CARMEN DE BOLIVAR",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 34000
+        },
+        {
+            "destination": "BONGO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 45000
+        },
+        {
+            "destination": "CHIMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 67000
+        },
+        {
+            "destination": "OVEJA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 39000
+        },
+        {
+            "destination": "LOS PALMITOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 45000
+        },
+        {
+            "destination": "SAN JUAN NEPOMUSENO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 28000
+        }
+    ],
+    "TOLU-MONTERIA BUS": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 41000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 26000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "PELAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 22000
+        }
+    ],
+    "LORICA-MONTERIA BUS": [
+        {
+            "destination": "LA ASAMBLEA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "LA PALMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 5000
+        },
+        {
+            "destination": "NARI\u00d1O",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 5000
+        },
+        {
+            "destination": "PALO DE AGUA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 5000
+        },
+        {
+            "destination": "COTOCA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 5000
+        },
+        {
+            "destination": "EL GUAMAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 5000
+        },
+        {
+            "destination": "SARANDELO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 6000
+        },
+        {
+            "destination": "MATA DE CA\u00d1A",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 6000
+        },
+        {
+            "destination": "TIERRALTICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 6000
+        },
+        {
+            "destination": "EL CARITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 7000
+        },
+        {
+            "destination": "LOS GOMEZ",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 7000
+        },
+        {
+            "destination": "COTORRA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 7000
+        },
+        {
+            "destination": "SABANA NUEVA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 7000
+        },
+        {
+            "destination": "GUAYABAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 8000
+        },
+        {
+            "destination": "CARRILLO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "SAN PELAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 10000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 12000
+        },
+        {
+            "destination": "NARI\u00d1O CER",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "MONTERIA EST",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        }
+    ],
+    "ARBOLETES-MONTERIA BUS": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        }
+    ],
+    "SAN JUAN-MONTERIA TAXI": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 37000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 37000
+        }
+    ],
+    "TURBO-MONTERIA BUS": [
+        {
+            "destination": "CARTAGENA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 134000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 62000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 34000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 39000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 42000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 39000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 50000
+        }
+    ],
+    "APARTADO-MONTERIA BUS": [
+        {
+            "destination": "CARTAGENA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 65000
+        },
+        {
+            "destination": "LOS CORDOBAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 61000
+        },
+        {
+            "destination": "EL  EBANO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 61000
+        },
+        {
+            "destination": "SAN PELAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "MARIA LA BAJA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "SAN ONOFRE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "TOLUVIEJO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "SAN ANTERO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "NECOCLI",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 30000
+        },
+        {
+            "destination": "MELLITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "SANTA LUCIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 49000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 55000
+        },
+        {
+            "destination": "ARJONA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "TURBACO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "EL VISO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        }
+    ],
+    "TIERRA ALTA-MONTERIA BUS": [
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "LOS CORRALES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "SAN MIGUEL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "CASA BLANCA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "MOCHILA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "SAN ISIDRO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "EL SENA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "SANTA FE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "LA ESPERANZA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "COREA - PUNTO FIJO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "VARIANTE 38",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "LA ASAMBLEA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "TRES PIEDRAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "BETANCI",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "LAS PIEDRAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "EL JARDIN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "LA CAJA DEL DIABLO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "APARTADA VALENCIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "LOS BONGOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "VALENCIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "TIERRALTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "RUSIA GRUPO 1",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "RUSIA GRUPO 3",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "MATA MAIZ",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "PUEBLITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "SAN PEDRO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 19000
+        },
+        {
+            "destination": "SAN ANTERO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "VOLADOR",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "COSTA DE ORO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        }
+    ],
+    "MONTERIA-CARTAGENA VIA SAN ONOFRE BUS": [
+        {
+            "destination": "CARTAGENA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 83000
+        },
+        {
+            "destination": "LA PALMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "NARI\u00d1O",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "PALO DE AGUA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "COTOCA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "EL GUAMAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "SARANDELO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "MATA DE CA\u00d1A",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "LOS GOMEZ",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "COTORRA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "SABANA NUEVA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "GUAYABAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "CARRILLO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "SAN PELAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 4000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 41000
+        },
+        {
+            "destination": "MARIA LA BAJA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 69000
+        },
+        {
+            "destination": "PALO ALTO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 63000
+        },
+        {
+            "destination": "PAJONAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 69000
+        },
+        {
+            "destination": "SAN ONOFRE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 58000
+        },
+        {
+            "destination": "TOLUVIEJO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 50000
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 32000
+        },
+        {
+            "destination": "SAN ANTERO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "ARJONA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 73000
+        },
+        {
+            "destination": "EL VISO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 70000
+        },
+        {
+            "destination": "MO\u00d1ITOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 32000
+        },
+        {
+            "destination": "PURISIMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 23000
+        },
+        {
+            "destination": "SAN BERNARDO DEL VIENTO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 30000
+        },
+        {
+            "destination": "MOMIL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "CHIMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "ARACHE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "CERETE VANS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 4000
+        },
+        {
+            "destination": "BOCA CIENAGA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "APARTADA DEL CARITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "APARTADA TIERRALTICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "TUCHIN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "LA DOCTRINA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 24000
+        },
+        {
+            "destination": "EL PORVENIR",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "NUEVO AGRADO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 23000
+        }
+    ],
+    "CARTAGENA VIA SAN ONOFRE-TIERRA ALTA": [
+        {
+            "destination": "VALENCIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 90000
+        },
+        {
+            "destination": "TIERRALTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 90000
+        },
+        {
+            "destination": "CHINU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "SAMPUES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "SINCELEJO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 83000
+        },
+        {
+            "destination": "LOS CORDOBAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 90000
+        },
+        {
+            "destination": "MATA DE CA\u00d1A",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 62000
+        },
+        {
+            "destination": "COTORRA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 70000
+        },
+        {
+            "destination": "CARRILLO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 78000
+        },
+        {
+            "destination": "SAN PELAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 70000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 76000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 63000
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 58000
+        },
+        {
+            "destination": "MARIA LA BAJA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 22000
+        },
+        {
+            "destination": "PALO ALTO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 39000
+        },
+        {
+            "destination": "PAJONAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 39000
+        },
+        {
+            "destination": "SAN ONOFRE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 39000
+        },
+        {
+            "destination": "TOLUVIEJO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 50000
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 58000
+        },
+        {
+            "destination": "SAN ANTERO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 63000
+        },
+        {
+            "destination": "NECOCLI",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 112000
+        },
+        {
+            "destination": "MELLITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 101000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 101000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 101000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 101000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 90000
+        },
+        {
+            "destination": "TURBO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 123000
+        },
+        {
+            "destination": "APARTADO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 134000
+        },
+        {
+            "destination": "PELAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 62000
+        },
+        {
+            "destination": "RETIRO NUEVO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 28000
+        },
+        {
+            "destination": "LA CURVA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 22000
+        },
+        {
+            "destination": "MO\u00d1ITOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 76000
+        },
+        {
+            "destination": "PASO NUEVO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 67000
+        },
+        {
+            "destination": "PURISIMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 56000
+        },
+        {
+            "destination": "SABANETA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 56000
+        },
+        {
+            "destination": "PALMITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 56000
+        },
+        {
+            "destination": "LA GARITA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 62000
+        },
+        {
+            "destination": "VARSORIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 50000
+        },
+        {
+            "destination": "SAN BERNARDO DEL VIENTO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 67000
+        },
+        {
+            "destination": "MOMIL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 56000
+        },
+        {
+            "destination": "CHIMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "ARACHE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 67000
+        },
+        {
+            "destination": "TUCHIN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "COROZALITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        },
+        {
+            "destination": "SAN ANDRES DE SOTAVENTOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 0
+        }
+    ],
+    "TOLU-SINCELEJO BUS": [
+        {
+            "destination": "SINCELEJO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 12000
+        }
+    ],
+    "APARTADO-TIERRA ALTA": [
+        {
+            "destination": "VALENCIA",
+            "vehicle": "VANS",
+            "fare": 66000
+        },
+        {
+            "destination": "TIERRALTA",
+            "vehicle": "VANS",
+            "fare": 75000
+        },
+        {
+            "destination": "SAN PEDRO",
+            "vehicle": "VANS",
+            "fare": 45000
+        },
+        {
+            "destination": "ALTO MULATOS",
+            "vehicle": "VANS",
+            "fare": 26000
+        },
+        {
+            "destination": "MONO MACHO",
+            "vehicle": "VANS",
+            "fare": 30000
+        },
+        {
+            "destination": "PUEBLO BELLO",
+            "vehicle": "VANS",
+            "fare": 34000
+        },
+        {
+            "destination": "EL CAUCHO",
+            "vehicle": "VANS",
+            "fare": 36000
+        },
+        {
+            "destination": "SAN VICENTE",
+            "vehicle": "VANS",
+            "fare": 37000
+        },
+        {
+            "destination": "MATA DE MAIZ",
+            "vehicle": "VANS",
+            "fare": 63000
+        },
+        {
+            "destination": "RUSIA",
+            "vehicle": "VANS",
+            "fare": 66000
+        },
+        {
+            "destination": "RIO NUEVO",
+            "vehicle": "VANS",
+            "fare": 67000
+        }
+    ],
+    "MONTERIA-CAUCASIA VAN": [
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "VANS",
+            "fare": 7000
+        },
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "VANS",
+            "fare": 20000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "VANS",
+            "fare": 32000
+        },
+        {
+            "destination": "LA APARTADA",
+            "vehicle": "VANS",
+            "fare": 37000
+        },
+        {
+            "destination": "RUSIA",
+            "vehicle": "VANS",
+            "fare": 32000
+        },
+        {
+            "destination": "CAUCASIA",
+            "vehicle": "VANS",
+            "fare": 56000
+        },
+        {
+            "destination": "PUERTO LIBERTADOR",
+            "vehicle": "VANS",
+            "fare": 50000
+        },
+        {
+            "destination": "ZOOCRIADERO",
+            "vehicle": "VANS",
+            "fare": 0
+        }
+    ],
+    "MONTERIA-MONTELIBANO VANS/CAMIONETA": [
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "VANS",
+            "fare": 7000
+        },
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "VANS",
+            "fare": 20000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "VANS",
+            "fare": 32000
+        },
+        {
+            "destination": "LA APARTADA",
+            "vehicle": "VANS",
+            "fare": 37000
+        },
+        {
+            "destination": "RUSIA",
+            "vehicle": "VANS",
+            "fare": 32000
+        },
+        {
+            "destination": "MONTELIBANO",
+            "vehicle": "VANS",
+            "fare": 44000
+        },
+        {
+            "destination": "ZOOCRIADERO",
+            "vehicle": "VANS",
+            "fare": 0
+        },
+        {
+            "destination": "BIJAO",
+            "vehicle": "VANS",
+            "fare": 50000
+        },
+        {
+            "destination": "TIERRA DENTRO",
+            "vehicle": "VANS",
+            "fare": 0
+        }
+    ],
+    "MONTERIA-SINCELEJO TAXI": [
+        {
+            "destination": "CIENAGA DE ORO",
+            "vehicle": "AUTOMOVIL",
+            "fare": 20000
+        },
+        {
+            "destination": "LA YE",
+            "vehicle": "AUTOMOVIL",
+            "fare": 22000
+        },
+        {
+            "destination": "SAHAGUN",
+            "vehicle": "AUTOMOVIL",
+            "fare": 27000
+        },
+        {
+            "destination": "CHINU",
+            "vehicle": "AUTOMOVIL",
+            "fare": 35000
+        },
+        {
+            "destination": "SAMPUES",
+            "vehicle": "AUTOMOVIL",
+            "fare": 37000
+        },
+        {
+            "destination": "SINCELEJO",
+            "vehicle": "AUTOMOVIL",
+            "fare": 44000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "AUTOMOVIL",
+            "fare": 4000
+        }
+    ],
+    "MONTERIA-ARBOLETES TAXI": [
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 28000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "AUTOMOVIL",
+            "fare": 28000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "VANS",
+            "fare": 28000
+        }
+    ],
+    "MONTERIA-ARBOLETES VANS": [
+        {
+            "destination": "NECOCLI",
+            "vehicle": "VANS",
+            "fare": 50000
+        },
+        {
+            "destination": "MELLITO",
+            "vehicle": "VANS",
+            "fare": 44000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "VANS",
+            "fare": 38000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "VANS",
+            "fare": 35000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "VANS",
+            "fare": 33000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "VANS",
+            "fare": 22000
+        },
+        {
+            "destination": "EL TOTUMO",
+            "vehicle": "VANS",
+            "fare": 54000
+        },
+        {
+            "destination": "EL TRES",
+            "vehicle": "VANS",
+            "fare": 65000
+        },
+        {
+            "destination": "CURRULAO",
+            "vehicle": "VANS",
+            "fare": 65000
+        },
+        {
+            "destination": "TURBO",
+            "vehicle": "VANS",
+            "fare": 61000
+        },
+        {
+            "destination": "SAN JUAN",
+            "vehicle": "VANS",
+            "fare": 28000
+        }
+    ],
+    "MONTERIA-PUERTO ESCONDIDO VANS": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 17000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 17000
+        }
+    ],
+    "MONTERIA -TURBO VANS": [
+        {
+            "destination": "SAN PEDRO",
+            "vehicle": "VANS",
+            "fare": 59000
+        },
+        {
+            "destination": "NECOCLI",
+            "vehicle": "VANS",
+            "fare": 56000
+        },
+        {
+            "destination": "MELLITO",
+            "vehicle": "VANS",
+            "fare": 50000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "VANS",
+            "fare": 44000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "VANS",
+            "fare": 37000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "VANS",
+            "fare": 37000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "VANS",
+            "fare": 32000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "EL TOTUMO",
+            "vehicle": "VANS",
+            "fare": 58000
+        },
+        {
+            "destination": "EL TRES",
+            "vehicle": "VANS",
+            "fare": 65000
+        },
+        {
+            "destination": "CURRULAO",
+            "vehicle": "VANS",
+            "fare": 65000
+        },
+        {
+            "destination": "TURBO",
+            "vehicle": "VANS",
+            "fare": 69000
+        },
+        {
+            "destination": "PIEDRECITA",
+            "vehicle": "VANS",
+            "fare": 42000
+        }
+    ],
+    "MONTERIA-APARTADO VANS": [
+        {
+            "destination": "SAN PEDRO",
+            "vehicle": "VANS",
+            "fare": 59000
+        },
+        {
+            "destination": "NECOCLI",
+            "vehicle": "VANS",
+            "fare": 56000
+        },
+        {
+            "destination": "MELLITO",
+            "vehicle": "VANS",
+            "fare": 50000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "VANS",
+            "fare": 44000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "VANS",
+            "fare": 44000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "VANS",
+            "fare": 37000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "VANS",
+            "fare": 32000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "EL TOTUMO",
+            "vehicle": "VANS",
+            "fare": 58000
+        },
+        {
+            "destination": "EL TRES",
+            "vehicle": "VANS",
+            "fare": 65000
+        },
+        {
+            "destination": "CURRULAO",
+            "vehicle": "VANS",
+            "fare": 71000
+        },
+        {
+            "destination": "TURBO",
+            "vehicle": "VANS",
+            "fare": 69000
+        },
+        {
+            "destination": "APARTADO",
+            "vehicle": "VANS",
+            "fare": 74000
+        },
+        {
+            "destination": "PIEDRECITA",
+            "vehicle": "VANS",
+            "fare": 0
+        }
+    ],
+    "MONTERIA-VALENCIA VANS": [
+        {
+            "destination": "LOS CORRALES",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "SAN MIGUEL",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "CASA BLANCA",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "MOCHILA",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "SAN ANTERITO",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "SAN ISIDRO",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "EL SENA",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "SANTA FE",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "LA ESPERANZA",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "COREA - PUNTO FIJO",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "VARIANTE 38",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "LA ASAMBLEA",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "TRES PIEDRAS",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "BETANCI",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "LAS PIEDRAS",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "EL JARDIN",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "LA CAJA DEL DIABLO",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "APARTADA VALENCIA",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "LOS BONGOS",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "VALENCIA",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "LOS MORALES",
+            "vehicle": "VANS",
+            "fare": 25000
+        }
+    ],
+    "CAUCACIA-MONTERIA VANS": [
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "VANS",
+            "fare": 43000
+        },
+        {
+            "destination": "SINCELEJO",
+            "vehicle": "VANS",
+            "fare": 67000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 56000
+        }
+    ],
+    "MONTELIBANO-MONTERIA VANS": [
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "VANS",
+            "fare": 33000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 44000
+        }
+    ],
+    "ARBOLETES-MONTERIA TAXI": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 25000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 25000
+        }
+    ],
+    "ARBOLETES-MONTERIA VANS": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 25000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 25000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 25000
+        }
+    ],
+    "TURBO-MONTERIA VANS": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 69000
+        },
+        {
+            "destination": "MELLITO",
+            "vehicle": "VANS",
+            "fare": 0
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "VANS",
+            "fare": 34000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "VANS",
+            "fare": 39000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "VANS",
+            "fare": 43000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "VANS",
+            "fare": 45000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "VANS",
+            "fare": 56000
+        }
+    ],
+    "APARTADO-MONTERIA VANS": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 74000
+        },
+        {
+            "destination": "LOS CORDOBAS",
+            "vehicle": "VANS",
+            "fare": 65000
+        },
+        {
+            "destination": "EL EBANO",
+            "vehicle": "VANS",
+            "fare": 71000
+        },
+        {
+            "destination": "NECOCLI",
+            "vehicle": "VANS",
+            "fare": 30000
+        },
+        {
+            "destination": "MELLITO",
+            "vehicle": "VANS",
+            "fare": 36000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "VANS",
+            "fare": 46000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "VANS",
+            "fare": 46000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "VANS",
+            "fare": 46000
+        },
+        {
+            "destination": "SANTA LUCIA",
+            "vehicle": "VANS",
+            "fare": 71000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "VANS",
+            "fare": 55000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "VANS",
+            "fare": 62000
+        },
+        {
+            "destination": "LA YAYA",
+            "vehicle": "VANS",
+            "fare": 46000
+        }
+    ],
+    "MONTERIA - AYAPEL VANS": [
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "VANS",
+            "fare": 7000
+        },
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "VANS",
+            "fare": 20000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "VANS",
+            "fare": 32000
+        },
+        {
+            "destination": "LA APARTADA",
+            "vehicle": "VANS",
+            "fare": 37000
+        },
+        {
+            "destination": "RUSIA",
+            "vehicle": "VANS",
+            "fare": 32000
+        },
+        {
+            "destination": "AYAPEL",
+            "vehicle": "VANS",
+            "fare": 45000
+        },
+        {
+            "destination": "ZOOCRIADERO",
+            "vehicle": "VANS",
+            "fare": 30000
+        }
+    ],
+    "MONTERIA-SINCELEJO VANS": [
+        {
+            "destination": "CIENAGA DE ORO",
+            "vehicle": "VANS",
+            "fare": 20000
+        },
+        {
+            "destination": "LA YE",
+            "vehicle": "VANS",
+            "fare": 22000
+        },
+        {
+            "destination": "SAHAGUN",
+            "vehicle": "VANS",
+            "fare": 27000
+        },
+        {
+            "destination": "CHINU",
+            "vehicle": "VANS",
+            "fare": 35000
+        },
+        {
+            "destination": "SAMPUES",
+            "vehicle": "VANS",
+            "fare": 37000
+        },
+        {
+            "destination": "SINCELEJO",
+            "vehicle": "VANS",
+            "fare": 44000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "VANS",
+            "fare": 4000
+        }
+    ],
+    "SAN JUAN-ARBOLETES TAXI": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 20500
+        }
+    ],
+    "ARBOLETES-SAN JUAN TAXI": [
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 8000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 8000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "VANS",
+            "fare": 8000
+        }
+    ],
+    "ARBOLETES-SAN JUAN VANS": [
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 8000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 8000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "VANS",
+            "fare": 5000
+        }
+    ],
+    "ARBOLETES-SAN JUAN CAM": [
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 8000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 8000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "VANS",
+            "fare": 8000
+        }
+    ],
+    "CAUCACIA-MONTELIBANO BUS": [
+        {
+            "destination": "MONTELIBANO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        }
+    ],
+    "CAUCACIA-MONTELIBANO VANS": [
+        {
+            "destination": "MONTELIBANO",
+            "vehicle": "VANS",
+            "fare": 30000
+        }
+    ],
+    "NECOCLI - ARBOLETES VANS": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 37000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "VANS",
+            "fare": 10000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "VANS",
+            "fare": 12000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "VANS",
+            "fare": 20000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "OVEROS",
+            "vehicle": "VANS",
+            "fare": 15000
+        }
+    ],
+    "NECOCLI -ARBOLETES TAXIS": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 37000
+        }
+    ],
+    "ARBOLETES NECOCLI TAXIS": [
+        {
+            "destination": "LOS CEDROS",
+            "vehicle": "AUTOMOVIL",
+            "fare": 14000
+        },
+        {
+            "destination": "NECOCLI",
+            "vehicle": "AUTOMOVIL",
+            "fare": 25000
+        },
+        {
+            "destination": "MELLITO",
+            "vehicle": "AUTOMOVIL",
+            "fare": 20000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "AUTOMOVIL",
+            "fare": 12000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 10000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "AUTOMOVIL",
+            "fare": 7000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 5000
+        },
+        {
+            "destination": "PIEDRECITA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 20000
+        },
+        {
+            "destination": "OVEROS",
+            "vehicle": "AUTOMOVIL",
+            "fare": 6000
+        },
+        {
+            "destination": "LA YAYA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 11000
+        },
+        {
+            "destination": "EL VALE",
+            "vehicle": "AUTOMOVIL",
+            "fare": 22000
+        }
+    ],
+    "NECOCLI -MONTERIA VANS": [
+        {
+            "destination": "LOS CEDROS",
+            "vehicle": "VANS",
+            "fare": 14000
+        },
+        {
+            "destination": "NECOCLI",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "MELLITO",
+            "vehicle": "VANS",
+            "fare": 20000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "VANS",
+            "fare": 12000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "VANS",
+            "fare": 10000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "VANS",
+            "fare": 7000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "VANS",
+            "fare": 5000
+        },
+        {
+            "destination": "PIEDRECITA",
+            "vehicle": "VANS",
+            "fare": 20000
+        },
+        {
+            "destination": "OVEROS",
+            "vehicle": "VANS",
+            "fare": 6000
+        },
+        {
+            "destination": "LA YAYA",
+            "vehicle": "VANS",
+            "fare": 11000
+        },
+        {
+            "destination": "EL VALE",
+            "vehicle": "VANS",
+            "fare": 22000
+        }
+    ],
+    "MONTERIA-SAHAGUN TAXI": [
+        {
+            "destination": "CIENAGA DE ORO",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 20000
+        },
+        {
+            "destination": "LA YE",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 22000
+        },
+        {
+            "destination": "SAHAGUN",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 27000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 5000
+        },
+        {
+            "destination": "CIENAGA DE ORO",
+            "vehicle": "AUTOMOVIL",
+            "fare": 20000
+        },
+        {
+            "destination": "LA YE",
+            "vehicle": "AUTOMOVIL",
+            "fare": 22000
+        },
+        {
+            "destination": "SAHAGUN",
+            "vehicle": "AUTOMOVIL",
+            "fare": 27000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "AUTOMOVIL",
+            "fare": 5000
+        },
+        {
+            "destination": "CIENAGA DE ORO",
+            "vehicle": "VANS",
+            "fare": 20000
+        },
+        {
+            "destination": "LA YE",
+            "vehicle": "VANS",
+            "fare": 22000
+        },
+        {
+            "destination": "SAHAGUN",
+            "vehicle": "VANS",
+            "fare": 27000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "VANS",
+            "fare": 5000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 27000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "AUTOMOVIL",
+            "fare": 27000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 27000
+        }
+    ],
+    "MONTERIA - SAN BERNARDO DEL VIENTO": [
+        {
+            "destination": "NARI\u00d1O",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "PALO DE AGUA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "COTOCA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "EL GUAMAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "SARANDELO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "MATA DE CA\u00d1A",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "LOS GOMEZ",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "COTORRA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "SABANA NUEVA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "GUAYABAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "CARRILLO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "SAN PELAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 4000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 41000
+        },
+        {
+            "destination": "MARIA LA BAJA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 57000
+        },
+        {
+            "destination": "SAN ONOFRE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 47000
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 32000
+        },
+        {
+            "destination": "SAN ANTERO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "EL VISO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 52000
+        },
+        {
+            "destination": "MO\u00d1ITOS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "PASO NUEVO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 26000
+        },
+        {
+            "destination": "SAN BERNARDO DEL VIENTO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 30000
+        },
+        {
+            "destination": "ARACHE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "CERETE VANS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 3600
+        },
+        {
+            "destination": "CERETE TAXIS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 3600
+        },
+        {
+            "destination": "BOCA CIENAGA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "APARTADA DEL CARITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "APARTADA TIERRALTICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "TUCHIN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "LA DOCTRINA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 24000
+        },
+        {
+            "destination": "EL PORVENIR",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 27000
+        },
+        {
+            "destination": "LA RADA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 26000
+        },
+        {
+            "destination": "LAS GARITAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "TREMENTINO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        }
+    ],
+    "MONTERIA - NECOCLI BUS": [
+        {
+            "destination": "PUERTO REY",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 22000
+        },
+        {
+            "destination": "EL MINUTO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "LOS CORDOBAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "BARRANQUILLITA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 17000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 14000
+        },
+        {
+            "destination": "CAMPANO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 14000
+        },
+        {
+            "destination": "JALISCO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 14000
+        },
+        {
+            "destination": "APDA PTO ESCONDIDO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 14000
+        },
+        {
+            "destination": "EL EBANO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 11400
+        },
+        {
+            "destination": "APRTADA CANALETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "AGUAS VIVAS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 4000
+        },
+        {
+            "destination": "LA BALASTERA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 7000
+        },
+        {
+            "destination": "RANCHO ALEGRE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 7000
+        },
+        {
+            "destination": "LAS CRUCES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 7000
+        },
+        {
+            "destination": "LOS CEDROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 5000
+        },
+        {
+            "destination": "NECOCLI",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 47000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 47000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 47000
+        },
+        {
+            "destination": "DAMAQUIEL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 22000
+        },
+        {
+            "destination": "OVEROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 26000
+        }
+    ],
+    "MONTERIA - SAN MARCOS TAXI": [
+        {
+            "destination": "SAN MARCOS",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 45000
+        },
+        {
+            "destination": "SAN MARCOS",
+            "vehicle": "AUTOMOVIL",
+            "fare": 45000
+        },
+        {
+            "destination": "SAN MARCOS",
+            "vehicle": "VANS",
+            "fare": 45000
+        }
+    ],
+    "MONTERIA - CHIMA": [
+        {
+            "destination": "LA PALMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "NARI\u00d1O",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "PALO DE AGUA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "COTOCA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "EL GUAMAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "SARANDELO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "MATA DE CA\u00d1A",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "LOS GOMEZ",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "COTORRA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "SABANA NUEVA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "GUAYABAL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "CARRILLO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "SAN PELAYO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 9000
+        },
+        {
+            "destination": "CERETE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 4000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 16000
+        },
+        {
+            "destination": "PURISIMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 23000
+        },
+        {
+            "destination": "MOMIL",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "CHIMA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "ARACHE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "APARTADA DEL CARITO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "APARTADA TIERRALTICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 13000
+        },
+        {
+            "destination": "TUCHIN",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 31000
+        },
+        {
+            "destination": "LA DOCTRINA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 24000
+        }
+    ],
+    "PUERTO ESCONDIDO - MONTERIA VANS": [
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 17000
+        }
+    ],
+    "LORICA - CARTAGENA": [
+        {
+            "destination": "CARTAGENA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 56000
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 22000
+        },
+        {
+            "destination": "MARIA LA BAJA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 35000
+        },
+        {
+            "destination": "SAN ONOFRE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 32000
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "SAN ANTERO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 11000
+        },
+        {
+            "destination": "ARJONA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 40000
+        },
+        {
+            "destination": "TURBACO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 46000
+        },
+        {
+            "destination": "EL VISO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 40000
+        }
+    ],
+    "NECOCLI - MONTERIA BUS": [
+        {
+            "destination": "CARTAGENA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 125000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 60000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 72000
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 85000
+        },
+        {
+            "destination": "SAN ONOFRE",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 104000
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 78000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 33000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 33000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 42000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 45000
+        },
+        {
+            "destination": "OVEROS",
+            "vehicle": "CAMIONETA MIXTA",
+            "fare": 12000
+        },
+        {
+            "destination": "CARTAGENA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 125000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 60000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 72000
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 85000
+        },
+        {
+            "destination": "SAN ONOFRE",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 104000
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 78000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 33000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 42000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 45000
+        },
+        {
+            "destination": "OVEROS",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 12000
+        },
+        {
+            "destination": "CARTAGENA",
+            "vehicle": "VANS",
+            "fare": 125000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 60000
+        },
+        {
+            "destination": "LORICA",
+            "vehicle": "VANS",
+            "fare": 72000
+        },
+        {
+            "destination": "TOLU",
+            "vehicle": "VANS",
+            "fare": 85000
+        },
+        {
+            "destination": "SAN ONOFRE",
+            "vehicle": "VANS",
+            "fare": 104000
+        },
+        {
+            "destination": "COVE\u00d1AS",
+            "vehicle": "VANS",
+            "fare": 78000
+        },
+        {
+            "destination": "MULATO",
+            "vehicle": "VANS",
+            "fare": 33000
+        },
+        {
+            "destination": "ZAPATA",
+            "vehicle": "VANS",
+            "fare": 33000
+        },
+        {
+            "destination": "SAN JUAN DE URABA",
+            "vehicle": "VANS",
+            "fare": 42000
+        },
+        {
+            "destination": "ARBOLETES",
+            "vehicle": "VANS",
+            "fare": 45000
+        },
+        {
+            "destination": "OVEROS",
+            "vehicle": "VANS",
+            "fare": 12000
+        }
+    ],
+    "AYAPEL MONTERIA BUS": [
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 39000
+        },
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 25000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 39000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "LA APARTADA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 15000
+        },
+        {
+            "destination": "PLAZA BONITA",
+            "vehicle": "BUS/MICRO/BUSETA",
+            "fare": 20000
+        },
+        {
+            "destination": "PL KILOMETRO 15",
+            "vehicle": "VANS",
+            "fare": 39000
+        },
+        {
+            "destination": "PL PLANETA RICA",
+            "vehicle": "VANS",
+            "fare": 25000
+        },
+        {
+            "destination": "MONTERIA",
+            "vehicle": "VANS",
+            "fare": 39000
+        },
+        {
+            "destination": "BUENAVISTA",
+            "vehicle": "VANS",
+            "fare": 20000
+        },
+        {
+            "destination": "LA APARTADA",
+            "vehicle": "VANS",
+            "fare": 15000
+        },
+        {
+            "destination": "PLAZA BONITA",
+            "vehicle": "VANS",
+            "fare": 20000
+        }
+    ]
+}
